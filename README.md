@@ -9,8 +9,8 @@ The final plot is just a static line plot of civic engagement over time. It is t
 HOW TO RUN
 1. Download/ Pull files. 
 2. Navigate to downloaded folder location.
-3. You may need to make the file executable depending on your setup. run "chmod +x app.py"
+3. You may need to make the file executable depending on your setup. Run "chmod +x app.py"
 4. You may need to install the requirements files. run "pip install -r requirements.txt"
 	*I also ran the class requirements file, I don't know if that is required.
-5. run "python app.py"
-6. open a web page and navigate to "http://127.0.0.1:8050/" (or whatever address it gives, I don't know if it is different for each computer)
+5. Run "python app.py"
+6. Open a web page and navigate to "http://127.0.0.1:8050/" (or whatever address it gives, I don't know if it is different for each computer)
