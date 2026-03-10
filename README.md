@@ -1,7 +1,7 @@
 README
 OVERVIEW
 
-Data is included in the CSV. It is taken from a 3 wave study survey study. The surveys were released at 3 different times to the same participants to evaluate their civic engagement.
+Data is included in the CSV. It is taken from a 3 wave study survey study. The surveys were released at 3 different times, to the same participants, to evaluate their civic engagement.
 The top plot is a scatter plot that lets the user chose the x-axis and y-axis. The X-axis are some dependent variables that may have an impact on civic engagement, the Y-axis is civic engagement at 3 different time steps. (filterable by gender) 
 The 2nd plot is a histogram of the study demographics. It shows the age, economic status and political leaning of the 748 participants.
 The final plot is just a static line plot of civic engagement over time. It is the average civic engagement score off all participants in each wave.
